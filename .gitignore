@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+src/main/resources/static
+src/main/resources/templates
+src/test
+HELP.md
