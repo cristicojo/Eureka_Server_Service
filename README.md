@@ -1,1 +1,1 @@
-Just an eureka service created for 2 microservices: 
+Just an eureka server created for 2 microservices: CRUD_service and BonusPoints_service
