@@ -35,3 +35,9 @@ dependencyManagement {
 test {
 	useJUnitPlatform()
 }
+
+
+
+bootWar {
+	archiveName('eureka_server_service.jar')
+}
